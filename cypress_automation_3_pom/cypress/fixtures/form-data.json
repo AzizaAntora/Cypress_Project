@@ -1,0 +1,8 @@
+{
+  "comment": "This is a test comment",
+  "commentLong": "This is a very long comment to test character limit functionality. It should still be submitted successfully.",
+  "name": "John Doe",
+  "email": "johndoe@fakeemail.io",
+  "emailInvalid": "johndoe@",
+  "website": "https://example.com/"
+}
